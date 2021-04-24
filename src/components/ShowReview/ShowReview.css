@@ -1,0 +1,15 @@
+html,body{
+    height: 100%;
+}
+.review-container{
+    background-color: #E1DEE9 !important;
+    height: 100%;
+    padding-top : 3%;
+    padding-bottom: 7%;
+    padding-left: 3%;
+    padding-right: 3%;
+    
+}
+p{
+    font-size: 1em;
+}

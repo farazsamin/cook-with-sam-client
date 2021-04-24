@@ -1,0 +1,11 @@
+.achievement-container{
+    background-color:   #E4C3AD  !important;
+    height: 100%;
+    padding-top : 4%;
+    padding-bottom: 7%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+p{
+    font-size: 1em;
+}
